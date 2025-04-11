@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @goatedOB
-- 👀 I’m interested in watches and cars
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nuilding webapps
-- 📫 How to reach me on obrianmufaro@gmail.com
+- 🌱 I’m currently learning a lot
+- 💞️ I’m looking to collaborate on building webapps
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Life is a journey 
 
